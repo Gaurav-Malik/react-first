@@ -1,0 +1,15 @@
+{
+    "userList": [{
+        "email": "gauravmalik1011@gmail.com",
+        "password": "admin"
+    }, {
+        "email": "gaurav007malik@yahoo.co.in",
+        "password": "admin"
+    }, {
+        "email": "testuser@gmail.com",
+        "password": "test"
+    }, {
+        "email": "testuser1@gmail.com",
+        "password": "test"
+    }]
+}

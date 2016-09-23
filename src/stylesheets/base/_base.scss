@@ -1,0 +1,18 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+body {
+    -webkit-animation: bodyFade 1s;
+    -moz-animation: bodyFade 1s;
+    -ms-animation: bodyFade 1s;
+    -o-animation: bodyFade 1s;
+    animation: bodyFade 1s;
+}
+body {
+    background-color: #f7f7f7;
+    color: #38322C;
+    font-family: "Lato", "Helvetica", Helvetica, sans-serif;
+}

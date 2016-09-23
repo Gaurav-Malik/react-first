@@ -1,0 +1,30 @@
+Learning :: React.js
+React.js is used for creating reusable UI components it can be treated as view part in MVC framework
+1 It uses jsx(javascript syntex extension).babel packages used to convert it into old javascript
+2 It can be used for client or server side programming
+3 Uses react-dom rather then original dom(improves performance)
+
+Sample Tutorial
+http://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm
+
+Whenever you want to use something, you need to import it first. If you want to make component usable in other parts of the app, 
+you need to export it after creation and import it in the file where you want to use it.(Look into sample app)
+
+Why JSX is advantage? https://medium.com/@housecor/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98#.oywpqqplz
+
+Angular, Ember and Knockout put “JS” in your HTML.
+React puts “HTML” in your JS.
+
+Virtual DOM :: 
+Ex:---------------------------------------------------------------------------------------------------------------------
+HOW DOES THE VIRTUAL DOM WORK?
+
+Imagine you had an object that you modeled around a person. It had every relevant property a person could possibly have, and mirrored the persons current state. This is basically what React does with the DOM.
+
+Now think about if you took that object and made some changes. Added a mustache, some sweet biceps and Steve Buscemi eyes. In React-land, when we apply these changes, two things take place. First, React runs a “diffing” algorithm, which identifies what has changed. The second step is reconciliation, where it updates the DOM with the results of diff.
+------------------------------------------------------------------------------------------------------------------------
+***********************************
+To run application :: Use npm start
+
+Change JSX in config(app.jsx for reference)
+***********************************
