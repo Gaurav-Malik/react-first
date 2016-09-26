@@ -1,0 +1,13 @@
+build
+node_modules
+npm-debug.log
+.happypack/
+.DS_Store
+.sass-cache/
+.tmp/
+.idea/
+#report/
+deploy/
+test_reports/
+*.hb.js
+precompiled/
